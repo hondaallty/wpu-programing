@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - JAVAscript
  * E56
  * Frameworks javascript
+- Struktur data dasar
 - PHP framework
 - Interview
 - Vlog

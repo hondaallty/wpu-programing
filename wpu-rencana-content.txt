@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
 - JAVAscript
+ * E56
+ * Frameworks javascript
 - PHP framework
 - Interview
 - Vlog

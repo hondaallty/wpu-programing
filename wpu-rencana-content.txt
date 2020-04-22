@@ -3,7 +3,10 @@ RENCANA KONTEN WPU
 - JAVAscript
  * E56
  * Frameworks javascript
+   ^ Angular
+   ^ React
 - PHP framework
+   ^ Laravel
 - Interview
 - Vlog
 - Python
